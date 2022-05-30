@@ -11,4 +11,4 @@ Como obter o cookie pelo Network do navegador:
 ```sh
 php sync_prs.php
 ```
-Caso queira rodar em algum projeto diferente do `cloud`, troque o valor da const `REPO`.
+Troque o valor da const `REPO` pelo repositório que deseja sincronizar.
